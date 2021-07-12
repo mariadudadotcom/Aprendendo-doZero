@@ -1,4 +1,4 @@
-# Aprendendo-doZero
+# Aprendendo do Zero
 
 Esse repositório consiste no meu progresso em programação. 
 Eu iniciei um bootcamp de Fullstack Dev e em seguida um de Data Science e irei postando os exercícios pedidos em aulas. 
